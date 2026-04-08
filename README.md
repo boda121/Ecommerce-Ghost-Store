@@ -31,13 +31,13 @@ This project demonstrates **clean architecture**, proper database design, and in
 ## 📁 Project Structure (High Level)
 
 Ecommerce-Ghost-Store/ → Project root
-│
-├─ Controllers/ → MVC Controllers
-├─ Models/ → C# Models
-├─ Views/ → Razor Pages / Views
-├─ wwwroot/ → Static files (CSS, JS, Images)
-├─ Data/ → Database context and migrations
-└─ Services/ → Business logic and API services
+
+- ├─ Controllers/ → MVC Controllers
+- ├─ Models/ → C# Models
+- ├─ Views/ → Razor Pages / Views
+- ├─ wwwroot/ → Static files (CSS, JS, Images)
+- ├─ Data/ → Database context and migrations
+- └─ Services/ → Business logic and API services
 
 ---
 
@@ -50,8 +50,8 @@ Ecommerce-Ghost-Store/ → Project root
 
 ## 🙌 Author
 **Abdullah Kamal**  
-📍 Giza, Egypt  
-✉️ Abdullah.bn.kamal@gmail.com  
-🔗 [GitHub](https://github.com/boda121)  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdallah-kamal-73a672162)
-   whatsapp: +201142167419
+- 📍 Giza, Egypt  
+- ✉️ Abdullah.bn.kamal@gmail.com  
+- 🔗 [GitHub](https://github.com/boda121)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdallah-kamal-73a672162)
+-  whatsapp: +201142167419
